@@ -1,5 +1,9 @@
 # FOMMS-MoSDeF-Workshop
 
+<p align="center">
+    <img src="images/FOMMS-2024-300px.png" width="300"/>
+</p>
+
 Welcome to the MoSDeF tutorial at FOMMS 2024 
 
 ## About MoSDeF
@@ -49,5 +53,5 @@ Documentations:
 
 
 <p align="center">
-    <img src="images/mosdef_logo.svg"/>
+    <img src="images/mosdef_logo.svg" width="500"/>
 </p>
