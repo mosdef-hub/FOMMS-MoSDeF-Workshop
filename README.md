@@ -3,14 +3,14 @@
 Welcome to the MoSDeF tutorial at FOMMS 2024 
 
 ## About MoSDeF
-The Molecular Simulation Design Framework, or MoSDeF, is an collaborative project focus on developing an open-source software suite to assist with the preparation of chemical/biological systems for molecular simulation. The framework strives to create tools that are
+The Molecular Simulation Design Framework, or MoSDeF, is a collaborative project focused on developing an open-source software suite to assist with the preparation of chemical/biological systems for molecular simulation. The framework strives to create tools that are
 - Non-specific
 - Force field agnostic
 - Engine agnostic
 
-These principals allow for the creation of more diverse workflow, that is, utilizing multiple simulation engines to perform each steps of the simulation process, and simulate systems at multiple scales, e.g, ab initio, atomistic, coarse-grained, and more. Most importantly, the MoSDeF software suite trivialize the distribution of the system's initialization, and parameterization process, ensure their reproducibility by the general community.
+These principals allow for the creation of more diverse workflows, that is, workflows that can utilize multiple simulation engines to at different steps of the simulation process, and simulate systems at multiple scales, e.g, ab initio, atomistic, coarse-grained, and more. Most importantly, the MoSDeF software suite trivializes the distribution of the system's initialization, and parameterization process, ensuring their reproducibility by the general community.
 
-The MoSDeF software suite consist of three core libraries, namely [mBuild](https://github.com/mosdef-hub/mbuild), [Foyer](https://github.com/mosdef-hub/foyer), and [GMSO](https://github.com/mosdef-hub/gmso). Each library dedicates to handle a certain step of the chemical system initialization process, as summarized in the figure below.
+The MoSDeF software suite consist of three core libraries, namely [mBuild](https://github.com/mosdef-hub/mbuild), [Foyer](https://github.com/mosdef-hub/foyer), and [GMSO](https://github.com/mosdef-hub/gmso). Each library is dedicated to handle a certain step of the chemical system initialization process, as summarized in the figure below.
 
 <p align="center">
     <img src="images/mosdef_scheme.jpg" width="500"/>
@@ -26,8 +26,8 @@ The MoSDeF provides necessary tools to automate the simulation workflow in a scr
 
 ## MoSDeF Tutorial
 
-In this tutorial, we will walk through a series of simulation workflows, all using MoSDeF to create the chemical/biological systems, parameterize, and write out to different file formats that can be taken in by various simulation engines.
-Through these workflow, we want to demonstrate how our libraries can be used to design TRUE (Transferable, Reproducible, Usable-by-other, and Extensible) studies, and ensure FAIR (Findable, Accesible, Interoperable, and Reusable) data management.
+In this tutorial, we will walk through a series of simulation workflows, all using MoSDeF to create the chemical/biological systems, parameterize the systems, and write out the paramerized system to different file formats that can be taken in by various simulation engines.
+Through these workflow, we want to demonstrate how our libraries can be used to design TRUE (Transferable, Reproducible, Usable-by-other, and Extensible) studies, FAIR (Findable, Accesible, Interoperable, and Reusable) data management.
 
 ### Installation Instruction
 
