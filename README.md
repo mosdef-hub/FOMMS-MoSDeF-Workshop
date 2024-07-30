@@ -33,9 +33,9 @@ The MoSDeF provides necessary tools to automate the simulation workflow in a scr
 In this tutorial, we will walk through a series of simulation workflows, all using MoSDeF to create the chemical/biological systems, parameterize the systems, and write out the paramerized system to different file formats that can be taken in by various simulation engines.
 Through these workflow, we want to demonstrate how our libraries can be used to design TRUE (Transferable, Reproducible, Usable-by-other, and Extensible) studies, FAIR (Findable, Accesible, Interoperable, and Reusable) data management.
 
-### Installation Instruction
+### Google Colab
 
-These tutotial workflows are designed to work on Google Colab. User can access these notebooks through the below links:
+These tutotial workflows are designed to be easily accessible on Google Colab. Users can access these notebooks through the below links:
 
 - [Water Adsorption in Graphene Slitpore](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/slitpore_workflow/Slitpore-Workflow.ipynb)
 - [Biomolecule](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/biomolecule_workflow/Biomolecule-Workflow.ipynb)
@@ -45,8 +45,11 @@ These tutotial workflows are designed to work on Google Colab. User can access t
   - [Coarse Graining with FlowerMD](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/3-flowerMD-coarse-graining.ipynb)
   - [Welding with FlowerMD](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/4-flowerMD-welding.ipynb)
   - [Tensile test with FlowerMD](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/5-flowerMD-surface-wetting.ipynb)
-
 - [Solvated Surface](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/solvated_surface_workflow/Solvated_Surface.ipynb)
+
+To run cells in an open notebook, press Shift+Return to execute a selected code block. In each notebook there are a few cells at the top that install required dependencies. It is known that the condacolab installation cell stops the colab kernel- Just wait for it to restart and run the subsequent cell. 
+
+If you clone this repository to your local laptop you won't need to use the condacolab installation cells and can install dependencies directly with conda or mamba.
 
 ### Other useful resources
 
