@@ -40,7 +40,7 @@ These tutotial workflows are designed to work on Google Colab. User can access t
 - [Water Adsorption in Graphene Slitpore](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/slitpore_workflow/Slitpore-Workflow.ipynb)
 - [Biomolecule](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/biomolecule_workflow/Biomolecule-Workflow.ipynb)
 - [Polymer](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/polymer_workflow/hoomd-organics.ipynb)
-- [Solvated Surface](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/solvated_surface_workflow/solvated_surface_workflow/Solvated_Surface.ipynb)
+- [Solvated Surface](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/solvated_surface_workflow/Solvated_Surface.ipynb)
 
 ### Other useful resources
 
