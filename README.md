@@ -1,8 +1,8 @@
-# FOMMS-MoSDeF-Workshop
-
 <p align="center">
     <img src="images/FOMMS-2024-300px.png" width="300"/>
 </p>
+
+# FOMMS-MoSDeF-Workshop
 
 Welcome to the MoSDeF tutorial at FOMMS 2024 
 
