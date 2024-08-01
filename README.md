@@ -38,6 +38,7 @@ Through these workflow, we want to demonstrate how our libraries can be used to 
 These tutotial workflows are designed to be easily accessible on Google Colab. Users can access these notebooks through the below links:
 
 - [Water Adsorption in Graphene Slitpore](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/slitpore_workflow/Slitpore-Workflow.ipynb)
+- [Solvated Surface](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/solvated_surface_workflow/Solvated_Surface.ipynb)
 - [Biomolecule](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/biomolecule_workflow/Biomolecule-Workflow.ipynb)
 - Polymers
   - [FlowerMD Basics](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/1-flowerMD-basics.ipynb)
@@ -45,7 +46,7 @@ These tutotial workflows are designed to be easily accessible on Google Colab. U
   - [Coarse Graining with FlowerMD](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/3-flowerMD-coarse-graining.ipynb)
   - [Welding with FlowerMD](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/4-flowerMD-welding.ipynb)
   - [Tensile test with FlowerMD](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/polymers/5-flowerMD-surface-wetting.ipynb)
-- [Solvated Surface](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/solvated_surface_workflow/Solvated_Surface.ipynb)
+
 
 To run cells in an open notebook, press Shift+Return to execute a selected code block. In each notebook there are a few cells at the top that install required dependencies. It is known that the condacolab installation cell stops the colab kernel- Just wait for it to restart and run the subsequent cell. 
 
