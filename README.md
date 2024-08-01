@@ -35,6 +35,8 @@ Through these workflow, we want to demonstrate how our libraries can be used to 
 
 ### Google Colab
 
+**Each of the notebooks has ~2-4 minutes of software installation cells at the top. We recommend running these while we're getting oriented to each workbook**
+
 These tutotial workflows are designed to be easily accessible on Google Colab. Users can access these notebooks through the below links:
 
 - [Water Adsorption in Graphene Slitpore](https://colab.research.google.com/github/mosdef-hub/FOMMS-MoSDeF-Workshop/blob/main/workflows/slitpore_workflow/Slitpore-Workflow.ipynb)
